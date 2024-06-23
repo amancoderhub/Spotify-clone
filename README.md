@@ -1,2 +1,3 @@
 # Spotify-clone
-This Repo is the clone of Spotify music app which is made by the HTML and CSS. Which is the part of Frontend development .
+As part of learning to code, I completed a project that involved creating a basic Spotify clone using HTML and CSS .
+This project was desigined to showcase my skill in front end development. It is a responsive and user friendly . 
